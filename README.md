@@ -1,91 +1,69 @@
 <div align="center">
 
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,31&height=100&section=header&text=HASAN%20ALBORAEE&fontSize=60&fontColor=ff0000&animation=fadeIn&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%7C%20RED%20TEAM%20OPERATOR&descAlignY=60&descAlign=50&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%"/>
+<br>
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Advanced+Persistent+Threat+Emulation;Zero-Day+Research+%26+Exploitation;Custom+C2+Infrastructure+Design;Stealth+Operations+%26+Evasion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=HASAN+ALBORAEE" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=40&lines=RED+TEAM+OPERATOR+%7C+OFFENSIVE+SECURITY+%7C+APT+EMULATION" alt="Typing SVG" />
 
 <br>
 
-<a href="https://linkedin.com/in/hasanalboraee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hasanalboraee@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
-<a href="https://hasanalboraee.com"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://twitter.com/hasanalboraee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hasanalboraee"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=1"/></a>
+<a href="mailto:hasanalboraee@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=white&border=1"/></a>
+<a href="https://hasanalboraee.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white&border=1"/></a>
+<a href="https://twitter.com/hasanalboraee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&border=1"/></a>
+
+<br>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2&width=100%"/>
 
 </div>
 
 <br>
 
-## 🛡️ TACTICAL OVERVIEW
+### � OPERATIONAL PROFILE
 
-```python
-class Operator:
-    def __init__(self):
-        self.role = "Red Team Specialist"
-        self.focus = ["APT Emulation", "Exploit Dev", "Evasion"]
-        self.status = "ACTIVE"
-        
-    def mission(self):
-        return "Simulating advanced threats to fortify defenses."
+```yaml
+CODENAME: HASAN
+ROLE:     RED TEAM OPERATOR
+STATUS:   ACTIVE / CLASSIFIED
+MISSION:  ADVANCED ADVERSARY SIMULATION
+MOTTO:    "ACTA NON VERBA"
 ```
 
 <br>
 
-## ⚔️ CORE COMPETENCIES
+### ⚔️ ARSENAL
 
-| **OFFENSIVE OPERATIONS** | **TOOL DEVELOPMENT** | **INFRASTRUCTURE** |
+| **OFFENSIVE** | **INFRASTRUCTURE** | **DEVELOPMENT** |
 |:---:|:---:|:---:|
-| 🎯 APT Simulation | 🐍 Python / Golang | 📡 Cobalt Strike / Mythic |
-| 🔓 Active Directory | 🦀 Rust / C++ | ☁️ AWS / Azure / GCP |
-| 🛡️ EDR Evasion | 🐚 PowerShell / Bash | 🔄 Redirectors & CDNs |
-| 🕸️ Web Exploitation | 🦠 Malware Dev | 🐳 Docker / K8s |
+| ![Kali](https://img.shields.io/badge/KALI-000000?style=flat-square&logo=kalilinux&logoColor=red) | ![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=red) | ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=red) |
+| ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=red) | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=red) | ![Go](https://img.shields.io/badge/GOLANG-000000?style=flat-square&logo=go&logoColor=red) |
+| ![Burp](https://img.shields.io/badge/BURP-000000?style=flat-square&logo=burp-suite&logoColor=red) | ![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=flat-square&logo=terraform&logoColor=red) | ![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=red) |
 
 <br>
 
-## 📊 ARSENAL
-
-<div align="center">
-
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br>
-
-## 🏆 CERTIFICATIONS 
-
-<div align="center">
-
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **OSCP** | **OSEP** | **CRTO** | **PNPT** |
-| Offensive Security | Offensive Security | Zero Point Security | TCM Security |
-
-</div>
-
-<br>
-
-## 📡 RECENT INTELLIGENCE
+### � INTELLIGENCE FEED
 
 <!-- BLOG-POST-LIST:START -->
-- [CRITICAL] CVE-2026-24061: GNU InetUtils Telnetd Auth Bypass
-- [RESEARCH] Advanced EDR Evasion Techniques
-- [TOOL] Custom C2 Profile Generator
-- [ANALYSIS] Reversing Modern Malware Loaders
+> [!IMPORTANT]
+> **LATEST RESEARCH:** [CVE-2026-24061 Analysis](https://hasanalboraee.com/blog)
+>
+> **NEW TOOL:** [Custom C2 Framework Released](https://github.com/hasanalboraee)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&hide=stars,issues,contribs&show_icons=true&theme=gotham&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=555555" />
+</div>
+
 <br>
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,31&height=100&section=footer&text=STAY%20VIGILANT&fontSize=20&fontColor=ff0000&animation=twinkling" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hasanalboraee&color=ff0000&style=flat-square&label=VIEWS)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hasanalboraee&color=ff0000&style=for-the-badge&label=" />
+</p>
 </div>
