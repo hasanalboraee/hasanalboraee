@@ -22,6 +22,64 @@ With expertise in **penetration testing**, **malware development**, and **cloud 
 
 ---
 
+## 🎯 THREAT INTELLIGENCE PROFILE
+
+```yaml
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     THREAT ACTOR INTELLIGENCE DOSSIER                    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  OPERATOR ID:        TA-2019-CRIMSON                                     ║
+║  ALIAS:              "Hasan Alboraee" / "Red Viper"                      ║
+║  FIRST OBSERVED:     2019                                                ║
+║  LAST ACTIVITY:      ONGOING / ACTIVE                                    ║
+║  ORIGIN:             Sana'a, Yemen                                       ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  THREAT CLASSIFICATION                                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  Sophistication:     ████████████ ADVANCED                               ║
+║  Stealth:            ███████████░ HIGH                                   ║
+║  Persistence:        ████████████ ADVANCED                               ║
+║  Tool Development:   ████████████ EXPERT                                 ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  KNOWN CAPABILITIES                                                      ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ▸ Custom C2 Framework Development (Go, Nim, C++)                        ║
+║  ▸ EDR/AV Evasion Techniques (AMSI Bypass, Unhooking)                   ║
+║  ▸ Cloud Infrastructure Exploitation (AWS, Azure)                        ║
+║  ▸ APT Tradecraft Emulation (Lazarus, APT29, APT28)                     ║
+║  ▸ Social Engineering & Phishing Campaigns                               ║
+║  ▸ Active Directory Exploitation & Lateral Movement                      ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  OPERATIONAL PROFILE                                                     ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  Current Role:       Red Team Lead @ DeepSafer                           ║
+║  Specialization:     Adversary Simulation & Offensive Tool Development   ║
+║  Known Associates:   Security Research Community, Red Team Operators     ║
+║  Communication:      Encrypted Channels, ProtonMail                      ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ATTRIBUTION INDICATORS                                                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ▸ Golang-based implants with custom encryption                          ║
+║  ▸ Serverless C2 redirectors (AWS Lambda, Azure Functions)              ║
+║  ▸ Advanced OPSEC practices & infrastructure obfuscation                 ║
+║  ▸ Focus on EDR evasion research & publication                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+> **⚠️ DISCLAIMER**: This profile represents authorized offensive security operations conducted within legal frameworks. All activities are performed under professional engagements for defensive improvement purposes.
+
+---
+
 ## 🎯 Core Capabilities
 
 ### Red Teaming
@@ -88,9 +146,9 @@ Case study on replicating the operational tradecraft of North Korean state-spons
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" />
 
 </div>
 
