@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=HASAN+ALBORAEE" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=40&lines=RED+TEAM+OPERATOR+%7C+OFFENSIVE+SECURITY+%7C+APT+EMULATION" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=40&lines=RED+TEAM+OPERATOR+%7C+MALWARE+DEVELOPMENT+%7C+CLOUD+SECURITY" alt="Typing SVG" />
 
 <br>
 
@@ -22,35 +22,48 @@
 
 <br>
 
-### � OPERATIONAL PROFILE
+### 💀 OPERATIONAL PROFILE
 
 ```yaml
 CODENAME: HASAN
 ROLE:     RED TEAM OPERATOR
-STATUS:   ACTIVE / CLASSIFIED
+FOCUS:    APT EMULATION / CLOUD EXPLOITATION
+STACK:    GOLANG / C++ / NIM
 MISSION:  ADVANCED ADVERSARY SIMULATION
 MOTTO:    "ACTA NON VERBA"
 ```
 
 <br>
 
-### ⚔️ ARSENAL
+### ⚔️ CAPABILITIES
 
-| **OFFENSIVE** | **INFRASTRUCTURE** | **DEVELOPMENT** |
+| **RED TEAMING** | **MALWARE DEV** | **CLOUD SECURITY** |
 |:---:|:---:|:---:|
-| ![Kali](https://img.shields.io/badge/KALI-000000?style=flat-square&logo=kalilinux&logoColor=red) | ![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=red) | ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=red) |
-| ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=red) | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=red) | ![Go](https://img.shields.io/badge/GOLANG-000000?style=flat-square&logo=go&logoColor=red) |
-| ![Burp](https://img.shields.io/badge/BURP-000000?style=flat-square&logo=burp-suite&logoColor=red) | ![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=flat-square&logo=terraform&logoColor=red) | ![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=red) |
+| APT TTP Simulation | Evasive Payloads (Go/Nim) | AWS & Azure Exploitation |
+| Custom C2 Infra | EDR/AV Bypass | IAM Privilege Escalation |
+| Phishing Campaigns | Reverse Engineering | Misconfiguration Analysis |
 
 <br>
 
-### � INTELLIGENCE FEED
+### 🛠️ ARSENAL
+
+| **LANGUAGES** | **INFRASTRUCTURE** | **TOOLS** |
+|:---:|:---:|:---:|
+| ![Go](https://img.shields.io/badge/GO-000000?style=flat-square&logo=go&logoColor=red) | ![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=red) | ![Metasploit](https://img.shields.io/badge/METASPLOIT-000000?style=flat-square&logo=metasploit&logoColor=red) |
+| ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=red) | ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=red) | ![Burp](https://img.shields.io/badge/BURP-000000?style=flat-square&logo=burp-suite&logoColor=red) |
+| ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=red) | ![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=flat-square&logo=terraform&logoColor=red) | ![Kali](https://img.shields.io/badge/KALI-000000?style=flat-square&logo=kalilinux&logoColor=red) |
+
+<br>
+
+### 📜 INTELLIGENCE FEED
 
 <!-- BLOG-POST-LIST:START -->
 > [!IMPORTANT]
-> **LATEST RESEARCH:** [CVE-2026-24061 Analysis](https://hasanalboraee.com/blog)
+> **LATEST RESEARCH:** [Bypassing EDR: A Modern Approach to Unhooking](https://hasanalboraee.com/blog/bypassing-edr-modern-approach)
 >
-> **NEW TOOL:** [Custom C2 Framework Released](https://github.com/hasanalboraee)
+> **OPSEC TRADE:** [Infrastructure Obfuscation for Red Teams](https://hasanalboraee.com/blog/infrastructure-obfuscation-red-teams)
+>
+> **CASE STUDY:** [Emulating Lazarus Group TTPs](https://hasanalboraee.com/blog/emulating-lazarus-group-ttps)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
