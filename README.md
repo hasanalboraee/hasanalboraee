@@ -146,7 +146,9 @@ Case study on replicating the operational tradecraft of North Korean state-spons
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&cache_seconds=1800" alt="GitHub Stats" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak" />
 
