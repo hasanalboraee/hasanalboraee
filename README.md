@@ -16,7 +16,7 @@ With expertise in **penetration testing**, **malware development**, and **cloud 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-abdulrahman)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanalboraee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hasanalboraee.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alboraee.site)
 
 </div>
 
@@ -131,13 +131,13 @@ Testing human resilience through spear-phishing campaigns and physical security 
 
 ## 📝 Recent Research & Publications
 
-### [Bypassing EDR: A Modern Approach to Unhooking](https://hasanalboraee.com/blog/bypassing-edr-modern-approach)
+### [Bypassing EDR: A Modern Approach to Unhooking](https://alboraee.site/blog/bypassing-edr-modern-approach)
 An in-depth analysis of user-mode hooks and novel techniques for silent execution. Exploring direct syscalls, NTDLL manipulation, and call stack spoofing to evade modern endpoint detection systems.
 
-### [Infrastructure Obfuscation for Red Teams](https://hasanalboraee.com/blog/infrastructure-obfuscation-red-teams)
+### [Infrastructure Obfuscation for Red Teams](https://alboraee.site/blog/infrastructure-obfuscation-red-teams)
 Leveraging serverless functions to mask C2 traffic against advanced network forensics. Deployment strategies using AWS Lambda and Azure Functions as ephemeral redirectors.
 
-### [Emulating Lazarus Group TTPs](https://hasanalboraee.com/blog/emulating-lazarus-group-ttps)
+### [Emulating Lazarus Group TTPs](https://alboraee.site/blog/emulating-lazarus-group-ttps)
 Case study on replicating the operational tradecraft of North Korean state-sponsored actors. Analysis of DLL side-loading, custom malware families, and encrypted C2 protocols.
 
 ---
