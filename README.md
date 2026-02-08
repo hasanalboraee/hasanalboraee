@@ -22,31 +22,61 @@ With expertise in **penetration testing**, **malware development**, and **cloud 
 
 ---
 
-## 🎯 Threat Actor Profile
+## 🎯 THREAT INTELLIGENCE PROFILE
 
-<div align="center">
+```yaml
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     THREAT ACTOR INTELLIGENCE DOSSIER                    ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  OPERATOR ID:        TA-2019-CRIMSON                                     ║
+║  ALIAS:              "Hasan Alboraee" / "Red Viper"                      ║
+║  FIRST OBSERVED:     2019                                                ║
+║  LAST ACTIVITY:      ONGOING / ACTIVE                                    ║
+║  ORIGIN:             Sana'a, Yemen                                       ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  THREAT CLASSIFICATION                                                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  Sophistication:     ████████████ ADVANCED                               ║
+║  Stealth:            ███████████░ HIGH                                   ║
+║  Persistence:        ████████████ ADVANCED                               ║
+║  Tool Development:   ████████████ EXPERT                                 ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  KNOWN CAPABILITIES                                                      ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ▸ Custom C2 Framework Development (Go, Nim, C++)                        ║
+║  ▸ EDR/AV Evasion Techniques (AMSI Bypass, Unhooking)                   ║
+║  ▸ Cloud Infrastructure Exploitation (AWS, Azure)                        ║
+║  ▸ APT Tradecraft Emulation (Lazarus, APT29, APT28)                     ║
+║  ▸ Social Engineering & Phishing Campaigns                               ║
+║  ▸ Active Directory Exploitation & Lateral Movement                      ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  OPERATIONAL PROFILE                                                     ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  Current Role:       Red Team Lead @ DeepSafer                           ║
+║  Specialization:     Adversary Simulation & Offensive Tool Development   ║
+║  Known Associates:   Security Research Community, Red Team Operators     ║
+║  Communication:      Encrypted Channels, ProtonMail                      ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ATTRIBUTION INDICATORS                                                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ▸ Golang-based implants with custom encryption                          ║
+║  ▸ Serverless C2 redirectors (AWS Lambda, Azure Functions)              ║
+║  ▸ Advanced OPSEC practices & infrastructure obfuscation                 ║
+║  ▸ Focus on EDR evasion research & publication                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-### TA-2019-CRIMSON | "Red Viper"
-
-**Advanced Persistent Operator** • **First Observed: 2019** • **Status: Active**
-
-</div>
-
-| Category | Details |
-|:---|:---|
-| **🎭 Identity** | Hasan Alboraee • Based in Sana'a, Yemen |
-| **💼 Affiliation** | Red Team Lead @ DeepSafer |
-| **🔥 Threat Level** | Advanced - Expert Tool Developer |
-| **🎯 Specialization** | Adversary Simulation • Offensive Tool Development • APT Emulation |
-| **⚡ Primary TTPs** | Custom C2 Frameworks • EDR Evasion • Cloud Exploitation • Social Engineering |
-| **🛠️ Signature Tools** | Golang/Nim Implants • Serverless C2 • AMSI Bypass • AD Exploitation |
-| **📡 Communication** | Encrypted Channels • ProtonMail • OPSEC-focused |
-
-<div align="center">
-
-**Known APT Emulation Capabilities:** Lazarus Group • APT29 • APT28 • APT41
-
-</div>
+> **⚠️ DISCLAIMER**: This profile represents authorized offensive security operations conducted within legal frameworks. All activities are performed under professional engagements for defensive improvement purposes.
 
 ---
 
