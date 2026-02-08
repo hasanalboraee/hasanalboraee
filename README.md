@@ -142,27 +142,41 @@ Case study on replicating the operational tradecraft of North Korean state-spons
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Skills & Proficiency
 
 <div align="center">
 
-### 📈 Contribution Stats
+### � Programming & Scripting
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+```
+Go         ████████████████████░  95%
+Python     ███████████████████░░  90%
+C/C++      ██████████████████░░░  85%
+Nim        ████████████████░░░░░  75%
+PowerShell ███████████████░░░░░░  70%
+Assembly   █████████████░░░░░░░░  60%
+```
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&dates=ffffff" alt="GitHub Streak" />
+### ☁️ Cloud & Infrastructure
 
-### 🏆 GitHub Trophies
+```
+AWS        ████████████████████░  95%
+Azure      ██████████████████░░░  85%
+Docker     ███████████████████░░  90%
+Terraform  ████████████████░░░░░  75%
+Kubernetes ██████████████░░░░░░░  65%
+```
 
-<img src="https://github-profile-trophy.vercel.app/?username=hasanalboraee&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+### �️ Security Tools & Frameworks
 
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalboraee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff" alt="Top Languages" />
-
-### 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanalboraee&theme=redical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" alt="Activity Graph" />
+```
+Metasploit      ████████████████████░  95%
+Burp Suite      ████████████████████░  95%
+Cobalt Strike   ██████████████████░░░  85%
+BloodHound      ███████████████████░░  90%
+Kali Linux      ████████████████████░  95%
+Custom C2       ██████████████████░░░  85%
+```
 
 </div>
 
