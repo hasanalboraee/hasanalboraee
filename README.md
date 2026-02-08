@@ -1,182 +1,107 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                          ██████╗ ███████╗██████╗                             ║
-║                         ██╔═══██╗██╔════╝██╔══██╗                            ║
-║                         ██║   ██║█████╗  ██║  ██║                            ║
-║                         ██║   ██║██╔══╝  ██║  ██║                            ║
-║                         ╚██████╔╝███████╗██████╔╝                            ║
-║                          ╚═════╝ ╚══════╝╚═════╝                             ║
-║                                                                              ║
-║                    OPERATION PHANTOM STRIKE - ACTIVE                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=16&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CLASSIFIED+%2F%2F+THREAT+ACTOR+PROFILE;APT-HA01+%7C+CODENAME:+CRIMSON+VIPER;ATTRIBUTION:+INDEPENDENT+OFFENSIVE+UNIT" alt="Typing SVG" />
-
-<br>
-
-[![SECURE COMMS](https://img.shields.io/badge/SECURE_COMMS-PROTONMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hasanalboraee@gmail.com)
-[![OSINT PROFILE](https://img.shields.io/badge/OSINT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-abdulrahman)
-[![OPERATIONS LOG](https://img.shields.io/badge/OPS_LOG-PORTFOLIO-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](https://hasanalboraee.com)
-
-<br>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-                            THREAT INTELLIGENCE DOSSIER
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=HASAN%20ALBORAEE&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20Lead%20%7C%20Offensive%20Security%20Specialist&descAlignY=55&descSize=20" />
 
 </div>
 
-<br>
+### 👋 About Me
 
-## 🎯 THREAT ACTOR PROFILE
+I'm a **Red Team Lead** specializing in **adversary simulation** and **offensive security operations**. My work focuses on emulating advanced persistent threats to help organizations identify and remediate security gaps before real attackers do.
 
-```yaml
-╔═══════════════════════════════════════════════════════════════════════════╗
-║ CLASSIFICATION: ADVANCED PERSISTENT THREAT                                ║
-║ DESIGNATION:    APT-HA01 "CRIMSON VIPER"                                  ║
-║ OPERATOR:       HASAN ALBORAEE                                            ║
-║ AFFILIATION:    INDEPENDENT OFFENSIVE SECURITY UNIT                       ║
-║ FIRST OBSERVED: 2019                                                      ║
-║ STATUS:         ACTIVE / ONGOING OPERATIONS                               ║
-║                                                                           ║
-║ PRIMARY OBJECTIVES:                                                       ║
-║   ▸ Advanced Adversary Simulation                                        ║
-║   ▸ Zero-Day Research & Weaponization                                    ║
-║   ▸ Custom Implant Development                                           ║
-║   ▸ Red Team Operations & Assessment                                     ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+With expertise in **penetration testing**, **malware development**, and **cloud security**, I design and execute full-spectrum red team engagements that challenge even the most mature security programs.
 
 <br>
-
-## 📋 OPERATIONAL TIMELINE
-
-| **PHASE** | **OPERATION** | **TIMEFRAME** | **STATUS** |
-|:---:|:---|:---:|:---:|
-| **III** | Red Team Lead - Advanced Operations | 2023 - PRESENT | `🔴 ACTIVE` |
-| **II** | Penetration Testing - Enterprise Targets | 2021 - 2023 | `✅ COMPLETE` |
-| **I** | Security Research - Tool Development | 2019 - 2021 | `✅ COMPLETE` |
-
-<br>
-
-## ⚔️ TACTICS, TECHNIQUES & PROCEDURES (TTPs)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ MITRE ATT&CK FRAMEWORK COVERAGE                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  [INITIAL ACCESS]          [EXECUTION]              [PERSISTENCE]          │
-│  ├─ Phishing               ├─ Command/Script        ├─ Registry Mods       │
-│  ├─ Exploit Public-Facing  ├─ User Execution        ├─ Scheduled Tasks     │
-│  └─ Supply Chain           └─ Native API            └─ Service Creation    │
-│                                                                             │
-│  [PRIVILEGE ESCALATION]    [DEFENSE EVASION]        [CREDENTIAL ACCESS]    │
-│  ├─ Process Injection      ├─ Obfuscation           ├─ OS Cred Dumping     │
-│  ├─ Token Manipulation     ├─ Process Hollowing     ├─ Kerberoasting       │
-│  └─ DLL Hijacking          └─ AMSI/ETW Bypass       └─ DCSync              │
-│                                                                             │
-│  [LATERAL MOVEMENT]        [COLLECTION]             [EXFILTRATION]         │
-│  ├─ Remote Services        ├─ Data Staged           ├─ C2 Channel          │
-│  ├─ Pass-the-Hash          ├─ Screen Capture        ├─ Encrypted Channel   │
-│  └─ SMB/Admin Shares       └─ Keylogging            └─ DNS Tunneling       │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## 🛠️ ARSENAL & TOOLCHAIN
 
 <div align="center">
 
-### OFFENSIVE CAPABILITIES
-
-| **MALWARE DEVELOPMENT** | **C2 INFRASTRUCTURE** | **EXPLOITATION** |
-|:---:|:---:|:---:|
-| ![Go](https://img.shields.io/badge/GOLANG-00ADD8?style=flat-square&logo=go&logoColor=black) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=flat-square&logo=metasploit&logoColor=white) |
-| ![Nim](https://img.shields.io/badge/NIM-FFE953?style=flat-square&logo=nim&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![Burp](https://img.shields.io/badge/BURP_SUITE-FF6633?style=flat-square&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white) |
-| ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Cobalt Strike](https://img.shields.io/badge/COBALT_STRIKE-DC143C?style=flat-square&logoColor=white) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-abdulrahman)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanalboraee@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hasanalboraee.com)
 
 </div>
 
-<br>
+---
 
-## � KNOWN CAMPAIGNS & OPERATIONS
+## 🎯 Core Capabilities
 
-```diff
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                        THREAT INTELLIGENCE FEED                           ║
-╠═══════════════════════════════════════════════════════════════════════════╣
+### Red Teaming
+Full-spectrum simulation of APT TTPs. Specializing in cloud red teaming (MCRTA), EDR evasion, and custom C2 infrastructure.
 
-! [CAMPAIGN-001] OPERATION UNHOOK
-  ├─ Objective: EDR Evasion Research
-  ├─ Technique: User-mode API Unhooking
-  ├─ Status: PUBLISHED
-  └─ Link: https://hasanalboraee.com/blog/bypassing-edr-modern-approach
+### Malware Development
+Development of evasive payloads using Golang, C++, and Nim. Expertise in reverse engineering and neutralizing threats.
 
-+ [CAMPAIGN-002] OPERATION GHOST NETWORK  
-  ├─ Objective: C2 Infrastructure Obfuscation
-  ├─ Technique: Serverless Redirectors
-  ├─ Status: OPERATIONAL
-  └─ Link: https://hasanalboraee.com/blog/infrastructure-obfuscation-red-teams
+### Cloud Security
+Deep expertise in Azure and AWS environments. Identifying misconfigurations, IAM privilege escalation, and attack paths.
 
-! [CAMPAIGN-003] OPERATION LAZARUS MIRROR
-  ├─ Objective: APT Emulation (DPRK)
-  ├─ Technique: TTP Replication
-  ├─ Status: CASE STUDY COMPLETE
-  └─ Link: https://hasanalboraee.com/blog/emulating-lazarus-group-ttps
+### Detection Engineering
+Building robust detection mechanisms, SOC log analysis, SIEM tuning, and writing YARA rules.
 
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+### Web Application Security
+Manual and automated assessments to uncover logic flaws, injection points, and authentication bypasses.
 
-<br>
+### Social Engineering
+Testing human resilience through spear-phishing campaigns and physical security assessments.
 
-## 📊 OPERATIONAL METRICS
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-```
-┌───────────────────────────────────────────────────────────────────────┐
-│                    ACTIVITY ANALYSIS & STATISTICS                     │
-└───────────────────────────────────────────────────────────────────────┘
-```
+### Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Nim](https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_radius=0" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=dark&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&border_radius=0" alt="GitHub Streak" />
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-DC143C?style=for-the-badge&logoColor=white)
 
 </div>
 
-<br>
+---
+
+## 📝 Recent Research & Publications
+
+### [Bypassing EDR: A Modern Approach to Unhooking](https://hasanalboraee.com/blog/bypassing-edr-modern-approach)
+An in-depth analysis of user-mode hooks and novel techniques for silent execution. Exploring direct syscalls, NTDLL manipulation, and call stack spoofing to evade modern endpoint detection systems.
+
+### [Infrastructure Obfuscation for Red Teams](https://hasanalboraee.com/blog/infrastructure-obfuscation-red-teams)
+Leveraging serverless functions to mask C2 traffic against advanced network forensics. Deployment strategies using AWS Lambda and Azure Functions as ephemeral redirectors.
+
+### [Emulating Lazarus Group TTPs](https://hasanalboraee.com/blog/emulating-lazarus-group-ttps)
+Case study on replicating the operational tradecraft of North Korean state-sponsored actors. Analysis of DLL side-loading, custom malware families, and encrypted C2 protocols.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanalboraee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasanalboraee&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000)
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                            SECURITY NOTICE                                   ║
-║                                                                              ║
-║  All operations conducted under authorized engagements and legal frameworks  ║
-║  This profile represents professional offensive security research only       ║
-║                                                                              ║
-║                    © 2025 APT-HA01 "CRIMSON VIPER"                          ║
-║                         HASAN ALBORAEE                                       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 
-<br>
+**"The best defense is a good offense"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasanalboraee&color=ff0000&style=for-the-badge&label=SURVEILLANCE+DETECTIONS)
+![Profile Views](https://komarev.com/ghpvc/?username=hasanalboraee&color=ff0000&style=flat-square)
 
 </div>
